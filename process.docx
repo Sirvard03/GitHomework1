@@ -1,0 +1,12 @@
+Կարդացի git-ի մասին https://www.nobledesktop.com/learn/git/what-is-git , https://git-scm.com/ 
+Գրանցվեցի https://github.com/ կայքում , կատարելով քայլերն ըստ հերթականության
+Հասկացել էի որ պետքա ներբեռնեմ Node.JS-ը , Google-ում գրեցի ‘’Node.js’’ ու հենց առաջինը պաշտոնական էջն էր, մտա ու ներբեռնեցի, ու երկար տանջանքներից հետո հասկացա որ էդ բացվող փոքր պատուհանը ի զորու չէ միաջնակ գործել, խոսեցի Դունաի հետ պարզվեց ես չունեմ ‘’VS Code’’-ը
+Կրկին Google-ում գրեցի ‘’Visual Studio Code’’ ու ներբեռնեցի,
+բացեցի նոր ֆայլ, անուն տվեցի
+Մտածեցի , ավելի հարմար կլինի Youtube-ում  փնտրեմ, գրեցի ‘’how to create hello world jsweb server’
+Բացեցի 2-րդ վիդեոն ու փորձեցի կրկնել քայլերը, բայց terminal-ի պահը չընկալեցի, չստացվեց
+Սեդան ուղարկեց լինկ որվ արելա հենց ինքը
+Մտածեցի ինքնուրույն նորից փորձեմ , Google-ում փնտրեցի նորից ՛՛how to creat js web server՛՛ 
+Առաջին լինկում միկայն պատրաստի օրինակներ էին https://www.codegrepper.com/code-examples/javascript/create+a+webserver+in+javascript, 2-րդ լինկով փորձեցի նորից քայլերը կրկնել հերթականությամբ https://www.tutorialsteacher.com/nodejs/create-nodejs-web-server  
+Կրկին չստացվեց, խնդիրը terminali-ի հետ էր, node-ը չէր ճանաչում
+Փորձեցի վիդեոներով լուծեմ հարցը, սակայն ապարդյուն(((((((
